@@ -8,3 +8,7 @@ package-lock.json
 coverage
 vercel_token
 .DS_Store
+
+# IDE
+.vscode
+*.code-workspace
